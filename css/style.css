@@ -1,0 +1,12 @@
+.banner{
+    background-image: url("../image/221471.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.gray-section{
+    background-color: darkgray ;
+}
+.footer-section{
+    background-color: gray;
+}
